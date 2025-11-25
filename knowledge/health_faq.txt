@@ -1,0 +1,78 @@
+Q: What are the common symptoms of diabetes?
+A: Increased thirst, frequent urination, fatigue, blurred vision, and slow wound healing.
+
+Q: What is hypertension?
+A: Hypertension is high blood pressure, a condition where the force of blood against artery walls is consistently too high.
+
+Q: What are the symptoms of hypertension?
+A: Often no symptoms; severe hypertension may cause headaches, shortness of breath, or nosebleeds.
+
+Q: What is anemia?
+A: A condition in which the blood doesn't have enough healthy red blood cells.
+
+Q: What are the symptoms of anemia?
+A: Fatigue, pale skin, dizziness, shortness of breath, and cold hands/feet.
+
+Q: What is asthma?
+A: A chronic condition that affects the airways, causing difficulty in breathing.
+
+Q: What are common asthma symptoms?
+A: Wheezing, coughing, chest tightness, and shortness of breath.
+
+Q: What is COVID-19?
+A: A viral illness caused by the coronavirus SARS-CoV-2.
+
+Q: What are symptoms of COVID-19?
+A: Fever, cough, tiredness, loss of taste/smell, sore throat.
+
+Q: What is dehydration?
+A: A condition caused by not having enough fluids in the body.
+
+Q: What are dehydration symptoms?
+A: Dry mouth, dizziness, dark urine, fatigue, headache.
+
+Q: What is migraine?
+A: A neurological condition causing severe headaches often with nausea and sensitivity to light.
+
+Q: What are migraine symptoms?
+A: Pulsating headache, visual disturbances, vomiting, sensitivity to light/sound.
+
+Q: What is obesity?
+A: A medical condition involving excessive body fat that increases health risks.
+
+Q: What are the causes of obesity?
+A: Poor diet, lack of physical activity, genetics, environment, and certain medical conditions.
+
+Q: What is flu?
+A: A contagious respiratory illness caused by influenza viruses.
+
+Q: What are the symptoms of flu?
+A: Fever, chills, cough, sore throat, runny nose, muscle aches.
+
+Q: What is a cold?
+A: A mild viral infection of the nose and throat.
+
+Q: What are the symptoms of common cold?
+A: Sneezing, runny nose, sore throat, cough, mild fever.
+
+Q: What is dengue?
+A: A viral infection spread by Aedes mosquitoes, common in tropical regions.
+
+Q: What are the symptoms of dengue?
+A: Sudden fever, severe headache, muscle and joint pain, rash, nausea, vomiting. Symptoms typically appear 3-14 days after infection.
+
+Q: How is dengue treated?
+A: Rest, fluids, and paracetamol for fever and pain. Avoid aspirin. Seek medical attention if symptoms worsen or bleeding occurs.
+
+Q: Can I take paracetamol for fever?
+A: Yes, paracetamol (acetaminophen) is safe for fever. Use as directed on the package. Avoid exceeding 4000mg per day.
+
+Q: What should I do for fever and headache?
+A: Rest in a cool environment, drink plenty of fluids, take paracetamol as directed, and monitor your temperature. Seek medical help if fever persists beyond 3 days.
+
+Q: What are the symptoms of diabetes complications?
+A: Chest pain, shortness of breath, severe fatigue, blurred vision, numbness in extremities, and kidney problems.
+
+Q: When should I see a doctor for chest pain?
+A: Seek immediate medical attention if experiencing chest pain, especially if accompanied by shortness of breath, nausea, or severe symptoms. Call emergency services if severe.
+

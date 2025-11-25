@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+real_time_opt_3.10/
+Healthcare chatbot.zip
+.cache/
